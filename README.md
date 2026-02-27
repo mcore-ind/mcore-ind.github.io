@@ -1,1 +1,1 @@
-# mcore.github.io
+# mcore-ind.github.io
